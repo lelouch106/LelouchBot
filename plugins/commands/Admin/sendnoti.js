@@ -91,4 +91,5 @@ export default {
     config,
     langData,
     onCall
-}
+        }
+                        
