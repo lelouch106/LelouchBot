@@ -16,14 +16,14 @@
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "100008907121641"
+        "100027279883548"
     ],
     "ABSOLUTES": [
-        "100008907121641"
+        "100027279883548"
     ],
-    "NAME": "Xavia",
-    "PREFIX": "x",
-    "timezone": "Asia/Ho_Chi_Minh",
+    "NAME": "Lelouch",
+    "PREFIX": "-",
+    "timezone": "Asia/Manila",
     "REFRESH": "43200000",
     "MAX_BALANCE_LIMIT": "-1"
 }
